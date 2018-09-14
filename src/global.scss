@@ -1,0 +1,39 @@
+$default: #05D17E;
+$white: #FFFFFF;
+.sm-btn{
+  width: 70px;
+  height: 27px;
+  line-height: 27px;
+  background: $default;
+  border-radius: 14px;
+  border: none;
+  box-sizing:border-box;
+  font-size: 12px;
+  color: $white;
+  outline: none;
+  padding:0;
+  margin:0;
+}
+.common-btn{
+  background: #05D17E;
+  width: 280px;
+  height: 40px;
+  border-radius: 3px;
+  font-size: 18px;
+  color: #FFFFFF;
+  border: none;
+  line-height: 40px;
+}
+.df-btn{
+  width: 150px;
+  height: 40px;
+  background: #FFFFFF;
+  border: 1px solid #05D17E;
+  box-sizing: border-box;
+  font-size: 18px;
+  color: #05D17E;
+  line-height: 38px;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+

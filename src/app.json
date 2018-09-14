@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/list/main",
+    "pages/detail/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#05D17E",
+    "navigationBarTitleText": "自考答题",
+    "navigationBarTextStyle": "white"
+  }
+}
